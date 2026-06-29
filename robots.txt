@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vidisha.github.io/VI369/sitemap.xml
+Sitemap: https://vidisha.github.io/sitemap.xml
